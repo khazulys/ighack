@@ -1,2 +1,2 @@
 # cryptolocker
-Ransomeware By python
+Gunakan dengan sebijak mungkin :D
